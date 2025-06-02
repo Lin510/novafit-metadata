@@ -1,0 +1,23 @@
+{
+  "name": "Abonament lunar NovaFit",
+  "symbol": "NFTK",
+  "description": "Acces valabil 30 zile la sala NovaFit",
+  "image": "https://nova-fit.ro/theme/NovaFit/img//logos/preloader.png",
+  "attributes": [
+    { "trait_type": "abonament_type", "value": "standard" },
+    { "trait_type": "valid_from", "value": "2025-06-01" },
+    { "trait_type": "valid_until", "value": "2025-07-01" },
+    { "trait_type": "status", "value": "paused" },
+    { "trait_type": "paused_until", "value": "2025-07-15" },
+    { "trait_type": "pause_reason", "value": "concediu medical" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://nova-fit.ro/theme/NovaFit/img//logos/preloader.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
