@@ -1,0 +1,15 @@
+{
+  "name": "NovaFit",
+  "symbol": "NFTK",
+  "description": "Token oficial al sălii de fitness NovaFit",
+  "image": "https://nova-fit.ro/theme/NovaFit/img//logos/preloader.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://nova-fit.ro/theme/NovaFit/img//logos/preloader.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
